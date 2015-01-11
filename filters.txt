@@ -2,3 +2,5 @@
 ! Title: I'm OK with cookies
 ! Homepage: https://github.com/Rudloff/adblock-imokwithcookies
 cloudwatt.com###cookie-banner
+rue89strasbourg.com###cookieChoiceInfo
+google.fr###epbar
