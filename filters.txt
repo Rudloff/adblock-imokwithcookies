@@ -1,0 +1,2 @@
+[Adblock Plus 2.6.6]
+cloudwatt.com###cookie-banner
