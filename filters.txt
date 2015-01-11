@@ -1,2 +1,4 @@
 [Adblock Plus 2.6.6]
+! Title: I'm OK with cookies
+! Homepage: https://github.com/Rudloff/adblock-imokwithcookies
 cloudwatt.com###cookie-banner
