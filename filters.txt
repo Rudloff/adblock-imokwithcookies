@@ -5,3 +5,4 @@ cloudwatt.com###cookie-banner
 rue89strasbourg.com###cookieChoiceInfo
 google.fr###epbar
 twitter.com##.Banner.eu-cookie-notice
+ineolab.fr###cookie-notice
