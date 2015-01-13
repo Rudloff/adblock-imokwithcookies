@@ -8,3 +8,4 @@ twitter.com##.Banner.eu-cookie-notice
 ineolab.fr###cookie-notice
 20minutes.fr###CNIL-notice
 jeuxvideo.com###cookies_notifier
+pole-emploi.fr###cookieBannerP
