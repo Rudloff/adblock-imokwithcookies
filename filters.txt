@@ -16,3 +16,4 @@ lemonde.fr###alerte_tracking
 lefigaro.fr##.cookiebarcontainer
 codeur.com##.accept-cookies.alert.alert-info
 bed-wet.com###v-cookielaw
+lundimatin.fr##.jumbtron-black.message-cookie
