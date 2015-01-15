@@ -13,3 +13,4 @@ apce.com###notificationcookie
 u-pem.fr###cookiesdirective
 canalplus.fr###cnil_alert
 lemonde.fr###alerte_tracking
+lefigaro.fr##.cookiebarcontainer
