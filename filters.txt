@@ -14,3 +14,4 @@ u-pem.fr###cookiesdirective
 canalplus.fr###cnil_alert
 lemonde.fr###alerte_tracking
 lefigaro.fr##.cookiebarcontainer
+codeur.com##.accept-cookies.alert.alert-info
