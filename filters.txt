@@ -11,3 +11,5 @@ jeuxvideo.com###cookies_notifier
 pole-emploi.fr###cookieBannerP
 apce.com###notificationcookie
 u-pem.fr###cookiesdirective
+canalplus.fr###cnil_alert
+lemonde.fr###alerte_tracking
