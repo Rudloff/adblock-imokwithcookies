@@ -19,3 +19,4 @@ bed-wet.com###v-cookielaw
 lundimatin.fr##.jumbtron-black.message-cookie
 laposte.fr###BandeauInfoCookie
 wifilib.com###cookieChoiceInfo
+marianne.net###sliding-popup.sliding-popup-bottom
