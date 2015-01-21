@@ -25,3 +25,4 @@ france-universite-numerique-mooc.fr###cookie-banner
 corporama.com###cnil-msg
 regent-contades.com###cookie_law_banner
 regent-hotels.com###cookie_law_banner
+blogdumoderateur.com###cookie-notice
