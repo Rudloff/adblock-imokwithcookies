@@ -22,3 +22,4 @@ wifilib.com###cookieChoiceInfo
 marianne.net###sliding-popup.sliding-popup-bottom
 sfr.fr###CkC
 france-universite-numerique-mooc.fr###cookie-banner
+corporama.com###cnil-msg
