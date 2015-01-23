@@ -26,3 +26,4 @@ corporama.com###cnil-msg
 regent-contades.com###cookie_law_banner
 regent-hotels.com###cookie_law_banner
 blogdumoderateur.com###cookie-notice
+globalblue.com###cookie
