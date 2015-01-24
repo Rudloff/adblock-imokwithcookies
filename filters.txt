@@ -29,3 +29,4 @@ blogdumoderateur.com###cookie-notice
 globalblue.com###cookie
 lesinrocks.com##.cnil-block
 allocine.fr##.alert.alert-info.alert-wrap.jui.info-cookie
+lautoentrepreneur.fr###cookie-banner
