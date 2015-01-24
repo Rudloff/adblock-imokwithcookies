@@ -28,3 +28,4 @@ regent-hotels.com###cookie_law_banner
 blogdumoderateur.com###cookie-notice
 globalblue.com###cookie
 lesinrocks.com##.cnil-block
+allocine.fr##.alert.alert-info.alert-wrap.jui.info-cookie
