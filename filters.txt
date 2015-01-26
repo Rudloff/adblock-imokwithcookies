@@ -35,3 +35,4 @@ tamimdaoudi.com##DIV[style="display: block; position: fixed; z-index: 999999; bo
 positivr.fr###cookie-notice
 huffingtonpost.fr###hp_cconsent
 letudiant.fr###cookies_policy
+youtube.com###ticker.yt-alert.yt-alert-actionable.yt-alert-info.cookie-alert
