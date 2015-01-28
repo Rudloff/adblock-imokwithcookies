@@ -39,3 +39,4 @@ youtube.com###ticker.yt-alert.yt-alert-actionable.yt-alert-info.cookie-alert
 generation-nt.com###cookieChoiceInfo
 ldlc.com###tc_privacy
 cipav.info###cookies_LCEN_UE
+francetvinfo.fr###cookie-cnil-box
