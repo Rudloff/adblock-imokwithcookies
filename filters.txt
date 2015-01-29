@@ -43,3 +43,4 @@ francetvinfo.fr###cookie-cnil-box
 slate.fr##.footer_cnil
 strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
 labanquepostale.fr###legalWarning
+additionnermultiplier.fr###ctl00_cookieAccept
