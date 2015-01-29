@@ -41,3 +41,4 @@ ldlc.com###tc_privacy
 cipav.info###cookies_LCEN_UE
 francetvinfo.fr###cookie-cnil-box
 slate.fr##.footer_cnil
+strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
