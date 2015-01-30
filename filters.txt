@@ -46,3 +46,4 @@ labanquepostale.fr###legalWarning
 additionnermultiplier.fr###ctl00_cookieAccept
 yummypets.com###cookie_ww
 es-energies.fr###cookie-bar
+20minutes.fr###cnil-notice
