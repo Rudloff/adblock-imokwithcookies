@@ -50,3 +50,4 @@ es-energies.fr###cookie-bar
 google.fr###pushdown
 over-blog.com###cookies_notifier
 lesechos.fr###cookiemenu
+gouvernement.fr###sliding-popup
