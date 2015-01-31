@@ -48,3 +48,4 @@ yummypets.com###cookie_ww
 es-energies.fr###cookie-bar
 20minutes.fr###cnil-notice
 google.fr###pushdown
+over-blog.com###cookies_notifier
