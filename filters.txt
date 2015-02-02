@@ -53,3 +53,4 @@ lesechos.fr###cookiemenu
 gouvernement.fr###sliding-popup
 amnesty.fr###sliding-popup
 cci.fr###popup_cookie
+galerieslafayette.com##.row.bandeau-cookies
