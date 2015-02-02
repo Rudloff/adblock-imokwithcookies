@@ -54,3 +54,4 @@ gouvernement.fr###sliding-popup
 amnesty.fr###sliding-popup
 cci.fr###popup_cookie
 galerieslafayette.com##.row.bandeau-cookies
+careers.societegenerale.com###cookie_law_msg
