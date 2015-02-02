@@ -51,3 +51,4 @@ google.fr###pushdown
 over-blog.com###cookies_notifier
 lesechos.fr###cookiemenu
 gouvernement.fr###sliding-popup
+amnesty.fr###sliding-popup
