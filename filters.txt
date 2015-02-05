@@ -57,3 +57,4 @@ galerieslafayette.com##.row.bandeau-cookies
 careers.societegenerale.com###cookie_law_msg
 coactis.fr###cookiesplease
 paypal.com##.row-fluid.cookie-notification
+inpi.fr###cookie-bar
