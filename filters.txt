@@ -59,3 +59,4 @@ coactis.fr###cookiesplease
 paypal.com##.row-fluid.cookie-notification
 inpi.fr###cookie-bar
 itespresso.fr###cookie_policy
+reveauxlettres.fr###cookie
