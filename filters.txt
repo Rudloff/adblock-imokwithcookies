@@ -62,3 +62,4 @@ itespresso.fr###cookie_policy
 reveauxlettres.fr###cookie
 ladepeche.fr###alerte_tracking
 sciencesetavenir.fr##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
+fr.okfn.org###catapult-cookie-bar
