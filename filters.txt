@@ -65,3 +65,4 @@ sciencesetavenir.fr##DIV[style="text-align:left;width:550px;background-color:#fe
 fr.okfn.org###catapult-cookie-bar
 sos-homophobie.org###sliding-popup
 graphikophil.com###cookie-law-info-bar
+futura-sciences.com###fs-cookiewarning
