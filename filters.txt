@@ -66,3 +66,4 @@ fr.okfn.org###catapult-cookie-bar
 sos-homophobie.org###sliding-popup
 graphikophil.com###cookie-law-info-bar
 futura-sciences.com###fs-cookiewarning
+the-checkpoint.fr###cookie-law-info-bar
