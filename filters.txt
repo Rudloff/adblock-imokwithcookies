@@ -68,3 +68,4 @@ graphikophil.com###cookie-law-info-bar
 futura-sciences.com###fs-cookiewarning
 the-checkpoint.fr###cookie-law-info-bar
 commentcamarche.net##.ccmcss_oic
+alloresto.fr###legal_policy_cookies
