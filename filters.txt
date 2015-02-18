@@ -70,3 +70,4 @@ the-checkpoint.fr###cookie-law-info-bar
 commentcamarche.net##.ccmcss_oic
 alloresto.fr###legal_policy_cookies
 franceinfo.fr###warning_cookie
+bing.com###thp_notf_div
