@@ -72,3 +72,4 @@ alloresto.fr###legal_policy_cookies
 franceinfo.fr###warning_cookie
 bing.com###thp_notf_div
 orientation-alsace.eu###cookieChoiceInfo
+atlantico.fr###cnil-cookie-panel
