@@ -75,3 +75,4 @@ orientation-alsace.eu###cookieChoiceInfo
 atlantico.fr###cnil-cookie-panel
 culturecommunication.gouv.fr##.cookies-infos
 passeportsante.net###mainDivLegacyCookie
+laposte.fr###cookies
