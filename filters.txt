@@ -76,3 +76,4 @@ atlantico.fr###cnil-cookie-panel
 culturecommunication.gouv.fr##.cookies-infos
 passeportsante.net###mainDivLegacyCookie
 laposte.fr###cookies
+leplus.nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
