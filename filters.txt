@@ -78,3 +78,4 @@ passeportsante.net###mainDivLegacyCookie
 laposte.fr###cookies
 leplus.nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
+doodle.com###cookiesWarning
