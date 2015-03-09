@@ -81,3 +81,4 @@ femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
 doodle.com###cookiesWarning
 ibps.alsace.banquepopulaire.fr###ctl00_cookieAccept
 tracks.arte.tv###arte-cookie-banner
+infogreffe.fr##.trackingCookiesDisclaimer.panel-blue
