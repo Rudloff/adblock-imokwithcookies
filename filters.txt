@@ -80,3 +80,4 @@ leplus.nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#f
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
 doodle.com###cookiesWarning
 ibps.alsace.banquepopulaire.fr###ctl00_cookieAccept
+tracks.arte.tv###arte-cookie-banner
