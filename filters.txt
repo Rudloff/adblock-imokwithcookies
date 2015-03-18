@@ -85,3 +85,4 @@ wifilib.com###cookieChoiceInfo
 youtube.com###ticker.yt-alert.yt-alert-actionable.yt-alert-info.cookie-alert
 yummypets.com###cookie_ww
 6play.fr###cookieu_header
+korben.info###cookie-notice
