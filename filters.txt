@@ -87,3 +87,4 @@ yummypets.com###cookie_ww
 6play.fr###cookieu_header
 korben.info###cookie-notice
 tropheesfondation.edf.com###cookiesWarning
+bedetheque.com##.cookie_message
