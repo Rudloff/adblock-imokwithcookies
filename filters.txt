@@ -89,3 +89,4 @@ korben.info###cookie-notice
 tropheesfondation.edf.com###cookiesWarning
 bedetheque.com##.cookie_message
 carrefour.fr###cookie-block
+carrefour.fr##.alert-msg-yellow.cookie-block
