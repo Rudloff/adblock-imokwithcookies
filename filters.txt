@@ -92,3 +92,4 @@ carrefour.fr###cookie-block
 carrefour.fr##.alert-msg-yellow.cookie-block
 mediapart.fr###cnil-sentence
 abycyclette.eklablog.com###cookie-info
+pro.01net.com###conteneurCookies
