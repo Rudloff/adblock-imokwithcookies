@@ -99,3 +99,4 @@ groupem6.fr###cookieu_header
 usinenouvelle.com###jQAlertAcceptCookie
 toutsurlaretraite.com###cnil-cookie-avertissement
 lexpress.fr###cookie_policy
+carreblanc.fr###cookieChoiceInfo
