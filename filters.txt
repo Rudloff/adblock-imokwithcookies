@@ -100,3 +100,4 @@ usinenouvelle.com###jQAlertAcceptCookie
 toutsurlaretraite.com###cnil-cookie-avertissement
 lexpress.fr###cookie_policy
 carreblanc.fr###cookieChoiceInfo
+impots.gouv.fr###cookie-banner
