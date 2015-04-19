@@ -97,3 +97,4 @@ pullseo.com###cookieChoiceInfo
 vosdroits.service-public.fr###layerCookies
 groupem6.fr###cookieu_header
 usinenouvelle.com###jQAlertAcceptCookie
+toutsurlaretraite.com###cnil-cookie-avertissement
