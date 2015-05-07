@@ -102,3 +102,4 @@ lexpress.fr###cookie_policy
 carreblanc.fr###cookieChoiceInfo
 impots.gouv.fr###cookie-banner
 ikea.com###cookieMsgBlock
+blogduwebdesign.com###cookie-banner
