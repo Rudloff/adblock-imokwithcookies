@@ -103,3 +103,4 @@ carreblanc.fr###cookieChoiceInfo
 impots.gouv.fr###cookie-banner
 ikea.com###cookieMsgBlock
 blogduwebdesign.com###cookie-banner
+d8.tv###cnil_alert
