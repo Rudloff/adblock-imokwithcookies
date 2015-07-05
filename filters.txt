@@ -107,3 +107,5 @@ d8.tv###cnil_alert
 ressources-solidaires.org###banniere-cookie
 freenews.fr###cookie-notice
 laprovence.com###cookie-bar
+animafac.net###cookie-law-info-bar
+animafac.net###cookie-law-info-again
