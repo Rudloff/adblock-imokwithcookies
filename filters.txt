@@ -110,3 +110,4 @@ laprovence.com###cookie-bar
 animafac.net###cookie-law-info-bar
 animafac.net###cookie-law-info-again
 pharmacievauban.fr###reglementation-cookie
+lalsace.fr###cookie-bar
