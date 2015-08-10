@@ -116,3 +116,4 @@ youtube.com###ticker.yt-alert.yt-alert-actionable.yt-alert-info.cookie-alert
 yummypets.com###cookie_ww
 lalsace.fr###cookie-bar
 yatuu.fr##.cc_banner.cc_container.cc_container--open
+objetrama.fr###cookie-restriction
