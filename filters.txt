@@ -118,3 +118,4 @@ lalsace.fr###cookie-bar
 yatuu.fr##.cc_banner.cc_container.cc_container--open
 objetrama.fr###cookie-restriction
 dansmesinternets.fr###cookie-notice
+nini-wanted.blogspot.fr###cookieChoiceInfo
