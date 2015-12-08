@@ -120,3 +120,4 @@ objetrama.fr###cookie-restriction
 dansmesinternets.fr###cookie-notice
 nini-wanted.blogspot.fr###cookieChoiceInfo
 turbo.fr###cookieu_header
+thomascubel.com###cookie-notice
