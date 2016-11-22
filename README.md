@@ -16,3 +16,9 @@ Once it is installed, go to *Tools > Adblock Plus > Filter preferences…*. Then
 
 You need to put this URL in the *Filter list location* field:
 [```https://raw.githubusercontent.com/Rudloff/adblock-imokwithcookies/master/filters.txt```](https://raw.githubusercontent.com/Rudloff/adblock-imokwithcookies/master/filters.txt)
+
+## Differences with Prebake
+
+[Prebake](http://prebake.eu/) is another Adblock filter that removes cookie notices.
+It works on a lot more websites but has some very aggressive rules and so can have some false positives.
+On the other hand, this filter only oncludes per-website rules in order to avoid false positives.
