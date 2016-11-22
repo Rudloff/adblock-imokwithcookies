@@ -47,6 +47,7 @@ lexpress.fr###cookie_policy
 letudiant.fr###cookies_policy
 lesinrocks.com##.cnil-block
 lesechos.fr###cookiemenu
+lesclesdelabanque.com###encart_cnil
 leplus.nouvelobs.com##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 lemonde.fr###alerte_tracking
 lefigaro.fr##.cookiebarcontainer
