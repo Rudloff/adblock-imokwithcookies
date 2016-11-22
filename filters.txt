@@ -125,6 +125,7 @@ bed-wet.com###v-cookielaw
 bedetheque.com##.cookie_message
 atlantico.fr###cnil-cookie-panel
 apce.com###notificationcookie
+answers.microsoft.com###PrivacyBanner
 animafac.net###cookie-law-info-bar
 animafac.net###cookie-law-info-again
 amnesty.fr###sliding-popup
