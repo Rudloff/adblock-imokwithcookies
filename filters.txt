@@ -57,6 +57,7 @@ laprovence.com###cookie-bar
 laposte.fr###cookies
 laposte.fr###BandeauInfoCookie
 lalsace.fr###cookie-bar
+laligue35.org###sliding-popup
 ladepeche.fr###alerte_tracking
 labanquepostale.fr###legalWarning
 korben.info###cookie-notice

@@ -39,5 +39,5 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-shell');
 
     grunt.registerTask('lint', ['jslint', 'fixpack', 'jsonlint', 'shell:sort']);
-    grunt.registerTask('commit', 'Quickly commit a new filter', 'shell:commit');
+    grunt.registerTask('commit', 'Quickly commit a new filter', ['lint', 'shell:commit']);
 };
