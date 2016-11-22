@@ -34,6 +34,7 @@ positivr.fr###cookie-notice
 portail.free.fr###cookiebanner
 pole-emploi.fr###cookieBannerP
 pharmacievauban.fr###reglementation-cookie
+pharmacievauban.fr###reglementation-cookie
 paypal.com##.row-fluid.cookie-notification
 passeportsante.net###mainDivLegacyCookie
 ovh.com###cookiesPop
@@ -83,6 +84,7 @@ google.fr###epbar
 globalblue.com###cookie
 getupetfaistontruc.carrefour.fr###tarteaucitronAlertBig
 generation-nt.com###cookieChoiceInfo
+games-workshop.com###cookieWarning_gw
 galerieslafayette.com##.row.bandeau-cookies
 futura-sciences.com###fs-cookiewarning
 fun-mooc.fr###cookie-banner
@@ -92,6 +94,7 @@ freenews.fr###cookie-notice
 france-universite-numerique-mooc.fr###cookie-banner
 francetvinfo.fr###cookie-cnil-box
 franceinfo.fr###warning_cookie
+forgeworld.co.uk###cookieWarning_gw
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
 es-energies.fr###cookie-bar
 elysee.fr###cookies
