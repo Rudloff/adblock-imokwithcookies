@@ -46,6 +46,7 @@ mediapart.fr###cnil-sentence
 marianne.net###sliding-popup.sliding-popup-bottom
 lundimatin.fr##.jumbtron-black.message-cookie
 lexpress.fr###cookie_policy
+letudiant.fr##.c-cookie-banner.is-visible
 letudiant.fr###cookies_policy
 lesinrocks.com##.cnil-block
 lesechos.fr###cookiemenu
