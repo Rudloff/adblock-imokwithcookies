@@ -19,6 +19,7 @@ the-checkpoint.fr###cookie-law-info-bar
 tamimdaoudi.com##DIV[style="display: block; position: fixed; z-index: 999999; bottom: 0px; left: 0px; right: 0px; height: auto; border: 1px solid rgb(204, 204, 204); background: none repeat scroll 0% 0% white; opacity: 0.9; color: rgb(68, 68, 68); padding: 5px 10px 5px 20px;"]
 strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
 sos-homophobie.org###sliding-popup
+sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
 sfr.fr###CkC
 sciencesetavenir.fr##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
