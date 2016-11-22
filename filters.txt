@@ -124,6 +124,7 @@ bfmtv.com###conteneurCookies
 bed-wet.com###v-cookielaw
 bedetheque.com##.cookie_message
 atlantico.fr###cnil-cookie-panel
+arte.tv###arte-cookie-banner
 apce.com###notificationcookie
 answers.microsoft.com###PrivacyBanner
 animafac.net###cookie-law-info-bar
