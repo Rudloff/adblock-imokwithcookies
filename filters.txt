@@ -110,3 +110,5 @@ laprovence.com###cookie-bar
 animafac.net###cookie-law-info-bar
 animafac.net###cookie-law-info-again
 pharmacievauban.fr###reglementation-cookie
+games-workshop.com###cookieWarning_gw
+forgeworld.co.uk###cookieWarning_gw
