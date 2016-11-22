@@ -79,9 +79,11 @@ gouvernement.fr###sliding-popup
 google.fr###pushdown
 google.fr###epbar
 globalblue.com###cookie
+getupetfaistontruc.carrefour.fr###tarteaucitronAlertBig
 generation-nt.com###cookieChoiceInfo
 galerieslafayette.com##.row.bandeau-cookies
 futura-sciences.com###fs-cookiewarning
+fr.slideshare.net##.j-tos-update-banner.tos-update-banner
 fr.okfn.org###catapult-cookie-bar
 freenews.fr###cookie-notice
 france-universite-numerique-mooc.fr###cookie-banner
