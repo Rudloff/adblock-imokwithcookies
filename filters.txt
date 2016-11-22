@@ -121,3 +121,7 @@ dansmesinternets.fr###cookie-notice
 nini-wanted.blogspot.fr###cookieChoiceInfo
 turbo.fr###cookieu_header
 thomascubel.com###cookie-notice
+portail.free.fr###cookiebanner
+bfmtv.com###conteneurCookies
+elysee.fr###cookies
+impots.gouv.fr###cookie-banner
