@@ -124,6 +124,7 @@ animafac.net###cookie-law-info-again
 amnesty.fr###sliding-popup
 alloresto.fr###legal_policy_cookies
 allocine.fr##.alert.alert-info.alert-wrap.jui.info-cookie
+afecreation.fr###notificationcookie
 additionnermultiplier.fr###ctl00_cookieAccept
 abycyclette.eklablog.com###cookie-info
 20minutes.fr###cnil-notice
