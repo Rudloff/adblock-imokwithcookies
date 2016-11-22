@@ -83,6 +83,7 @@ getupetfaistontruc.carrefour.fr###tarteaucitronAlertBig
 generation-nt.com###cookieChoiceInfo
 galerieslafayette.com##.row.bandeau-cookies
 futura-sciences.com###fs-cookiewarning
+fun-mooc.fr###cookie-banner
 fr.slideshare.net##.j-tos-update-banner.tos-update-banner
 fr.okfn.org###catapult-cookie-bar
 freenews.fr###cookie-notice
