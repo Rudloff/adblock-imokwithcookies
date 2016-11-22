@@ -41,6 +41,7 @@ over-blog.com###cookies_notifier
 orientation-alsace.eu###cookieChoiceInfo
 objetrama.fr###cookie-restriction
 nini-wanted.blogspot.fr###cookieChoiceInfo
+mutuelle-familiale.fr###cookie-bar
 mediapart.fr###cnil-sentence
 marianne.net###sliding-popup.sliding-popup-bottom
 lundimatin.fr##.jumbtron-black.message-cookie
