@@ -27,7 +27,7 @@ module.exports = function (grunt) {
                     command: 'sort -Vr filters.txt -o filters.txt'
                 },
                 commit: {
-                    command: 'git commit -a -m "New filter"; git push'
+                    command: 'git commit filters.txt -m "New filter"; git push'
                 }
             }
         }
