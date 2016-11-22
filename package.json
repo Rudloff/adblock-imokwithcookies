@@ -1,0 +1,25 @@
+{
+  "name": "rudloff-starter",
+  "description": "List of filters for Adblock Plus that block cookie notices on European website",
+  "version": "0.1.0",
+  "author": "Pierre Rudloff",
+  "bugs": "https://github.com/Rudloff/adblock-imokwithcookies/issues",
+  "devDependencies": {
+    "grunt": "~1.0.1",
+    "grunt-fixpack": "~0.1.0",
+    "grunt-jslint": "~1.1.14",
+    "grunt-jsonlint": "~1.1.0",
+    "grunt-shell": "~2.1.0"
+  },
+  "homepage": "https://github.com/Rudloff/adblock-imokwithcookies",
+  "keywords": [
+    "adblock",
+    "cookies"
+  ],
+  "license": "GPL-3.0",
+  "main": "filters.txt",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rudloff/adblock-imokwithcookies.git"
+  }
+}
