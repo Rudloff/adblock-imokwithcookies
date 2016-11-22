@@ -24,7 +24,7 @@ module.exports = function (grunt) {
             shell: {
                 sort: {
                     //This is the easiest way but we might want to find a way to have a correct alphabetical order
-                    command: 'sort -Vr filters.txt -o filters.txt'
+                    command: 'sort -Vru filters.txt -o filters.txt'
                 },
                 commit: {
                     command: 'git commit filters.txt -m "New filter"; git push'
