@@ -128,3 +128,4 @@ additionnermultiplier.fr###ctl00_cookieAccept
 abycyclette.eklablog.com###cookie-info
 20minutes.fr###cnil-notice
 6play.fr###cookieu_header
+6play.fr##.cookie
