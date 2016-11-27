@@ -99,6 +99,7 @@ femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
 es-energies.fr###cookie-bar
 elysee.fr###cookies
 doodle.com###cookiesWarning
+dilbert.com###js-cookie-consent
 dansmesinternets.fr###cookie-notice
 d8.tv###cnil_alert
 culturecommunication.gouv.fr##.cookies-infos
