@@ -43,6 +43,7 @@ orientation-alsace.eu###cookieChoiceInfo
 objetrama.fr###cookie-restriction
 nini-wanted.blogspot.fr###cookieChoiceInfo
 mutuelle-familiale.fr###cookie-bar
+moncompteformation.gouv.fr###sliding-popup
 mediapart.fr###cnil-sentence
 maze.fr###cookie-notice
 marianne.net###sliding-popup.sliding-popup-bottom
