@@ -7,6 +7,7 @@
   "devDependencies": {
     "grunt": "~1.0.1",
     "grunt-fixpack": "~0.1.0",
+    "grunt-git": "~1.0.1",
     "grunt-jslint": "~1.1.14",
     "grunt-jsonlint": "~1.1.0",
     "grunt-shell": "~2.1.0"

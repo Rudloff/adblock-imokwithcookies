@@ -25,9 +25,21 @@ module.exports = function (grunt) {
                 sort: {
                     //This is the easiest way but we might want to find a way to have a correct alphabetical order
                     command: 'sort -Vru filters.txt -o filters.txt'
+                }
+            },
+            gitcommit: {
+                options: {
+                    message: 'New filter'
                 },
                 commit: {
-                    command: 'git commit filters.txt -m "New filter"; git push'
+                    files: {
+                        src: 'filters.txt'
+                    }
+                }
+            },
+            gitpush: {
+                push: {
+
                 }
             }
         }
@@ -37,7 +49,8 @@ module.exports = function (grunt) {
     grunt.loadNpmTasks('grunt-jsonlint');
     grunt.loadNpmTasks('grunt-fixpack');
     grunt.loadNpmTasks('grunt-shell');
+    grunt.loadNpmTasks('grunt-git');
 
     grunt.registerTask('lint', ['jslint', 'fixpack', 'jsonlint', 'shell:sort']);
-    grunt.registerTask('commit', 'Quickly commit a new filter', ['lint', 'shell:commit']);
+    grunt.registerTask('commit', 'Quickly commit a new filter', ['lint', 'gitcommit', 'gitpush']);
 };
