@@ -50,6 +50,7 @@ moncompteformation.gouv.fr###sliding-popup
 mediapart.fr###cnil-sentence
 maze.fr###cookie-notice
 marianne.net###sliding-popup.sliding-popup-bottom
+maliki.com###ca_banner
 lundimatin.fr##.jumbtron-black.message-cookie
 lexpress.fr###cookie_policy
 letudiant.fr##.c-cookie-banner.is-visible
