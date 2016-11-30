@@ -42,6 +42,7 @@ passeportsante.net###mainDivLegacyCookie
 ovh.com###cookiesPop
 over-blog.com###cookies_notifier
 orientation-alsace.eu###cookieChoiceInfo
+orange.com###cookieDialog
 objetrama.fr###cookie-restriction
 nini-wanted.blogspot.fr###cookieChoiceInfo
 mutuelle-familiale.fr###cookie-bar
