@@ -118,6 +118,7 @@ cnil.fr###tarteaucitronAlertBig
 cnil.fr##.tarteaucitronAlertBigTop
 cloudwatt.com###cookie-banner
 cipav.info###cookies_LCEN_UE
+certificat-air.gouv.fr###cookie-bar
 cci.fr###popup_cookie
 carrefour.fr##.alert-msg-yellow.cookie-block
 carrefour.fr###cookie-block
