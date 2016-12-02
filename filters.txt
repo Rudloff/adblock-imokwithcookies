@@ -11,6 +11,7 @@ usinenouvelle.com###jQAlertAcceptCookie
 twitter.com##.Banner.eu-cookie-notice
 turbo.fr###cookieu_header
 tropheesfondation.edf.com###cookiesWarning
+trainline.fr##.notification__message.cookies
 tracks.arte.tv###arte-cookie-banner
 toutsurlaretraite.com###cnil-cookie-avertissement
 topito.com##.cc-cookies
@@ -42,6 +43,7 @@ passeportsante.net###mainDivLegacyCookie
 ovh.com###cookiesPop
 over-blog.com###cookies_notifier
 orientation-alsace.eu###cookieChoiceInfo
+orange.com###cookieDialog
 objetrama.fr###cookie-restriction
 nini-wanted.blogspot.fr###cookieChoiceInfo
 mutuelle-familiale.fr###cookie-bar
@@ -49,6 +51,7 @@ moncompteformation.gouv.fr###sliding-popup
 mediapart.fr###cnil-sentence
 maze.fr###cookie-notice
 marianne.net###sliding-popup.sliding-popup-bottom
+maliki.com###ca_banner
 lundimatin.fr##.jumbtron-black.message-cookie
 lexpress.fr###cookie_policy
 letudiant.fr##.c-cookie-banner.is-visible
@@ -118,6 +121,7 @@ cnil.fr###tarteaucitronAlertBig
 cnil.fr##.tarteaucitronAlertBigTop
 cloudwatt.com###cookie-banner
 cipav.info###cookies_LCEN_UE
+certificat-air.gouv.fr###cookie-bar
 cci.fr###popup_cookie
 carrefour.fr##.alert-msg-yellow.cookie-block
 carrefour.fr###cookie-block
