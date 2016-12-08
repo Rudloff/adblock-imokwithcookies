@@ -117,6 +117,7 @@ creersonsite.net##.cookie-notice-container
 corporama.com###cnil-msg
 cookiechoices.org##.maia-notification.maia-stage.display
 cookiechoices.org###cookie-statement
+conso.bloctel.fr##.divascookies
 commentcamarche.net##.ccmcss_oic
 codeur.com##.accept-cookies.alert.alert-info
 coactis.fr###cookiesplease
