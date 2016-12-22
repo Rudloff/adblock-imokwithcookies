@@ -40,6 +40,7 @@ pro.01net.com###conteneurCookies
 positivr.fr###cookie-notice
 portail.free.fr###cookiebanner
 pole-emploi.fr###cookieBannerP
+phishing-initiative.fr##.cc_banner.cc_container.cc_container--open
 pharmacievauban.fr###reglementation-cookie
 pdfforge.org###sliding-popup
 paypal.com##.row-fluid.cookie-notification
