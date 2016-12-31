@@ -58,6 +58,7 @@ maze.fr###cookie-notice
 marianne.net###sliding-popup.sliding-popup-bottom
 maliki.com###ca_banner
 lundimatin.fr##.jumbtron-black.message-cookie
+linxo.com###cookie-notice
 lexpress.fr###cookie_policy
 letudiant.fr##.c-cookie-banner.is-visible
 letudiant.fr###cookies_policy
