@@ -46,6 +46,7 @@ pharmacievauban.fr###reglementation-cookie
 pdfforge.org###sliding-popup
 paypal.com##.row-fluid.cookie-notification
 passeportsante.net###mainDivLegacyCookie
+parallels.com##cookie-policy-note
 ovh.com###cookiesPop
 over-blog.com###cookies_notifier
 orientation-alsace.eu###cookieChoiceInfo
@@ -158,4 +159,3 @@ abycyclette.eklablog.com###cookie-info
 20minutes.fr###cnil-notice
 6play.fr###cookieu_header
 6play.fr##.cookie
-parallels.com##cookie-policy-note
