@@ -23,6 +23,7 @@ tamimdaoudi.com##DIV[style="display: block; position: fixed; z-index: 999999; bo
 sup-numerique.gouv.fr###topbar-cookie-container
 sudouest.fr##.strip.strip-black.cookie.no-expansion.cookie_banner-handled
 styleci.io##.cc_banner-wrapper
+styleci.io##.cc-grower
 strasbourg.eu##.cc_banner.cc_container.cc_container--open
 strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
 sos-homophobie.org###sliding-popup
