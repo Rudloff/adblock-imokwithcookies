@@ -91,6 +91,7 @@ ineolab.fr###cookie-notice
 impots.gouv.fr###cookie-banner
 ikea.com###cookieMsgBlock
 ibps.alsace.banquepopulaire.fr###ctl00_cookieAccept
+humanite.fr###sliding-popup
 huffingtonpost.fr###hp_cconsent
 groupem6.fr###cookieu_header
 graphikophil.com###cookie-law-info-bar
