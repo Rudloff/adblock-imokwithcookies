@@ -15,12 +15,18 @@ trainline.fr##.notification__message.cookies
 tracks.arte.tv###arte-cookie-banner
 toutsurlaretraite.com###cnil-cookie-avertissement
 topito.com##.cc-cookies
+toogoodtogo.fr###cookie-notice
 thomascubel.com###cookie-notice
 the-checkpoint.fr###cookie-law-info-bar
+tf1.fr##.banner_cookies
 tamimdaoudi.com##DIV[style="display: block; position: fixed; z-index: 999999; bottom: 0px; left: 0px; right: 0px; height: auto; border: 1px solid rgb(204, 204, 204); background: none repeat scroll 0% 0% white; opacity: 0.9; color: rgb(68, 68, 68); padding: 5px 10px 5px 20px;"]
 sup-numerique.gouv.fr###topbar-cookie-container
+sudouest.fr##.strip.strip-black.cookie.no-expansion.cookie_banner-handled
 styleci.io##.cc_banner-wrapper
+styleci.io##.cc-grower
+strasbourg.eu##.cc_banner.cc_container.cc_container--open
 strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
+spotify.com###js-message-bar-cookie-notice
 sos-homophobie.org###sliding-popup
 sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
@@ -36,10 +42,13 @@ pro.01net.com###conteneurCookies
 positivr.fr###cookie-notice
 portail.free.fr###cookiebanner
 pole-emploi.fr###cookieBannerP
+pizzahut.fr##.cc_banner.cc_container.cc_container--open
+phishing-initiative.fr##.cc_banner.cc_container.cc_container--open
 pharmacievauban.fr###reglementation-cookie
 pdfforge.org###sliding-popup
 paypal.com##.row-fluid.cookie-notification
 passeportsante.net###mainDivLegacyCookie
+parallels.com##cookie-policy-note
 ovh.com###cookiesPop
 over-blog.com###cookies_notifier
 orientation-alsace.eu###cookieChoiceInfo
@@ -53,6 +62,7 @@ maze.fr###cookie-notice
 marianne.net###sliding-popup.sliding-popup-bottom
 maliki.com###ca_banner
 lundimatin.fr##.jumbtron-black.message-cookie
+linxo.com###cookie-notice
 lexpress.fr###cookie_policy
 letudiant.fr##.c-cookie-banner.is-visible
 letudiant.fr###cookies_policy
@@ -75,6 +85,7 @@ ladepeche.fr###alerte_tracking
 labanquepostale.fr###legalWarning
 korben.info###cookie-notice
 koom.org###cookie-bar
+konbini.com##.alert-cookies
 jeuxvideo.com###cookies_notifier
 itespresso.fr###cookie_policy
 inpi.fr###cookie-bar
@@ -83,6 +94,7 @@ ineolab.fr###cookie-notice
 impots.gouv.fr###cookie-banner
 ikea.com###cookieMsgBlock
 ibps.alsace.banquepopulaire.fr###ctl00_cookieAccept
+humanite.fr###sliding-popup
 huffingtonpost.fr###hp_cconsent
 groupem6.fr###cookieu_header
 graphikophil.com###cookie-law-info-bar
@@ -115,6 +127,7 @@ creersonsite.net##.cookie-notice-container
 corporama.com###cnil-msg
 cookiechoices.org##.maia-notification.maia-stage.display
 cookiechoices.org###cookie-statement
+conso.bloctel.fr##.divascookies
 commentcamarche.net##.ccmcss_oic
 codeur.com##.accept-cookies.alert.alert-info
 coactis.fr###cookiesplease
@@ -129,6 +142,7 @@ carrefour.fr###cookie-block
 carreblanc.fr###cookieChoiceInfo
 careers.societegenerale.com###cookie_law_msg
 canalplus.fr###cnil_alert
+blogspot.fr###cookieChoiceInfo
 blogduwebdesign.com###cookie-banner
 blogdumoderateur.com###cookie-notice
 bing.com###thp_notf_div
