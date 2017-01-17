@@ -84,6 +84,7 @@ laligue35.org###sliding-popup
 ladepeche.fr###alerte_tracking
 labanquepostale.fr###legalWarning
 korben.info###cookie-notice
+koom.org###cookie-bar
 konbini.com##.alert-cookies
 kompass.com###cookieGuardMsg
 jeuxvideo.com###cookies_notifier
