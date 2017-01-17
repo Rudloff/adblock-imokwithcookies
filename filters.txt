@@ -85,6 +85,7 @@ ladepeche.fr###alerte_tracking
 labanquepostale.fr###legalWarning
 korben.info###cookie-notice
 konbini.com##.alert-cookies
+kompass.com###cookieGuardMsg
 jeuxvideo.com###cookies_notifier
 itespresso.fr###cookie_policy
 inpi.fr###cookie-bar
