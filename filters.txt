@@ -8,6 +8,7 @@ wifilib.com###cookieChoiceInfo
 vosdroits.service-public.fr###layerCookies
 u-pem.fr###cookiesdirective
 usinenouvelle.com###jQAlertAcceptCookie
+unblog.fr###unblcn
 twitter.com##.Banner.eu-cookie-notice
 turbo.fr###cookieu_header
 tropheesfondation.edf.com###cookiesWarning
