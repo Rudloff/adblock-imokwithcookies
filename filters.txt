@@ -40,6 +40,7 @@ regent-hotels.com###cookie_law_banner
 regent-contades.com###cookie_law_banner
 pullseo.com###cookieChoiceInfo
 pro.01net.com###conteneurCookies
+projetarcadie.com###sliding-popup
 positivr.fr###cookie-notice
 portail.free.fr###cookiebanner
 pole-emploi.fr###cookieBannerP
