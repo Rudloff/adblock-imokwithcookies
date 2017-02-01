@@ -139,6 +139,7 @@ coactis.fr###cookiesplease
 cnil.fr###tarteaucitronAlertBig
 cnil.fr##.tarteaucitronAlertBigTop
 cloudwatt.com###cookie-banner
+clinique-rhena.fr###sliding-popup
 cipav.info###cookies_LCEN_UE
 chro-ma.com###eu-cookie-bar
 certificat-air.gouv.fr###cookie-bar
