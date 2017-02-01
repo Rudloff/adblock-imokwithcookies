@@ -89,6 +89,7 @@ korben.info###cookie-notice
 koom.org###cookie-bar
 konbini.com##.alert-cookies
 kompass.com###cookieGuardMsg
+jpg.fr###CookieSaveMsg
 jeuxvideo.com###cookies_notifier
 itespresso.fr###cookie_policy
 inpi.fr###cookie-bar
