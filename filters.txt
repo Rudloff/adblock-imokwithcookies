@@ -19,6 +19,7 @@ topito.com##.cc-cookies
 toogoodtogo.fr###cookie-notice
 thomascubel.com###cookie-notice
 the-checkpoint.fr###cookie-law-info-bar
+tgvconnect.com##.react-cookie-banner
 tf1.fr##.banner_cookies
 tamimdaoudi.com##DIV[style="display: block; position: fixed; z-index: 999999; bottom: 0px; left: 0px; right: 0px; height: auto; border: 1px solid rgb(204, 204, 204); background: none repeat scroll 0% 0% white; opacity: 0.9; color: rgb(68, 68, 68); padding: 5px 10px 5px 20px;"]
 sup-numerique.gouv.fr###topbar-cookie-container
