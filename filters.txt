@@ -93,6 +93,7 @@ kompass.com###cookieGuardMsg
 jpg.fr###CookieSaveMsg
 jeuxvideo.com###cookies_notifier
 itespresso.fr###cookie_policy
+ipv6-test.com##.cc_banner.cc_container.cc_container--open
 inpi.fr###cookie-bar
 infogreffe.fr##.trackingCookiesDisclaimer.panel-blue
 ineolab.fr###cookie-notice
