@@ -41,6 +41,7 @@ regent-hotels.com###cookie_law_banner
 regent-contades.com###cookie_law_banner
 pullseo.com###cookieChoiceInfo
 pro.01net.com###conteneurCookies
+projetarcadie.com###sliding-popup
 positivr.fr###cookie-notice
 portail.free.fr###cookiebanner
 pole-emploi.fr###cookieBannerP
@@ -89,6 +90,7 @@ korben.info###cookie-notice
 koom.org###cookie-bar
 konbini.com##.alert-cookies
 kompass.com###cookieGuardMsg
+jpg.fr###CookieSaveMsg
 jeuxvideo.com###cookies_notifier
 itespresso.fr###cookie_policy
 inpi.fr###cookie-bar
@@ -124,6 +126,7 @@ elysee.fr###cookies
 doodle.com###cookiesWarning
 dilbert.com###js-cookie-consent
 dansmesinternets.fr###cookie-notice
+dailymotion.com##.cookie_policy
 d8.tv###cnil_alert
 culturecommunication.gouv.fr##.cookies-infos
 creersonsite.net##.cookie-notice-container
@@ -137,7 +140,9 @@ coactis.fr###cookiesplease
 cnil.fr###tarteaucitronAlertBig
 cnil.fr##.tarteaucitronAlertBigTop
 cloudwatt.com###cookie-banner
+clinique-rhena.fr###sliding-popup
 cipav.info###cookies_LCEN_UE
+chro-ma.com###eu-cookie-bar
 certificat-air.gouv.fr###cookie-bar
 cci.fr###popup_cookie
 carrefour.fr##.alert-msg-yellow.cookie-block
