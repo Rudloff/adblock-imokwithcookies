@@ -141,6 +141,7 @@ codeur.com##.accept-cookies.alert.alert-info
 coactis.fr###cookiesplease
 cnil.fr###tarteaucitronAlertBig
 cnil.fr##.tarteaucitronAlertBigTop
+cnetfrance.fr###cookiePolicy
 cloudwatt.com###cookie-banner
 clinique-rhena.fr###sliding-popup
 cipav.info###cookies_LCEN_UE
