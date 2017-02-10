@@ -33,6 +33,7 @@ sos-homophobie.org###sliding-popup
 sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
 sfr.fr###CkC
+seat61.com##.cc_banner-wrapper
 sciencesetavenir.fr##DIV[style="text-align:left;width:550px;background-color:#feefaa;padding:10px;font:12px Arial;position:absolute;z-index:50;undefined"]
 rue89strasbourg.com###cookieChoiceInfo
 reveauxlettres.fr###cookie
