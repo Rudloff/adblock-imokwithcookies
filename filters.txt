@@ -128,6 +128,7 @@ es-energies.fr###cookie-bar
 elysee.fr###cookies
 doodle.com###cookiesWarning
 dilbert.com###js-cookie-consent
+db-ip.com##.cc_banner.cc_container.cc_container--open
 dansmesinternets.fr###cookie-notice
 dailymotion.com##.cookie_policy
 d8.tv###cnil_alert
