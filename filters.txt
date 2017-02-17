@@ -125,6 +125,7 @@ franceinfo.fr###warning_cookie
 forgeworld.co.uk###cookieWarning_gw
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
 es-energies.fr###cookie-bar
+engagement.fr###cookieBox
 elysee.fr###cookies
 educnum.fr###tarteaucitronAlertBig
 doodle.com###cookiesWarning
