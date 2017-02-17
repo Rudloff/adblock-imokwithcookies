@@ -155,6 +155,7 @@ carrefour.fr###cookie-block
 carreblanc.fr###cookieChoiceInfo
 careers.societegenerale.com###cookie_law_msg
 canalplus.fr###cnil_alert
+brain-magazine.fr###cookies
 blogspot.fr###cookieChoiceInfo
 blogduwebdesign.com###cookie-banner
 blogdumoderateur.com###cookie-notice
