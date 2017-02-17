@@ -126,6 +126,7 @@ forgeworld.co.uk###cookieWarning_gw
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
 es-energies.fr###cookie-bar
 elysee.fr###cookies
+educnum.fr###tarteaucitronAlertBig
 doodle.com###cookiesWarning
 dilbert.com###js-cookie-consent
 db-ip.com##.cc_banner.cc_container.cc_container--open
