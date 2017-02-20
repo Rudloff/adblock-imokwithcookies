@@ -165,6 +165,7 @@ bing.com###thp_notf_div
 bfmtv.com###conteneurCookies
 bed-wet.com###v-cookielaw
 bedetheque.com##.cookie_message
+atlas.ripe.net###cookiepopup
 atlantico.fr###cnil-cookie-panel
 arte.tv###arte-cookie-banner
 apce.com###notificationcookie
