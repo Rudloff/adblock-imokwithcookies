@@ -66,6 +66,7 @@ mediapart.fr###cnil-sentence
 maze.fr###cookie-notice
 marianne.net###sliding-popup.sliding-popup-bottom
 maliki.com###ca_banner
+makehuman.org###cookie_consent
 lundimatin.fr##.jumbtron-black.message-cookie
 linxo.com###cookie-notice
 lexpress.fr###cookie_policy
