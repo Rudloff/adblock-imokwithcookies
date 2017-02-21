@@ -93,6 +93,7 @@ koom.org###cookie-bar
 konbini.com##.alert-cookies
 kompass.com###cookieGuardMsg
 jpg.fr###CookieSaveMsg
+journaldugeek.com###cookieChoiceInfo
 jeuxvideo.com###cookies_notifier
 itespresso.fr###cookie_policy
 ipv6-test.com##.cc_banner.cc_container.cc_container--open
