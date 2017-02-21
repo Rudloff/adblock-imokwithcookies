@@ -123,6 +123,7 @@ fr.okfn.org###catapult-cookie-bar
 freenews.fr###cookie-notice
 france-universite-numerique-mooc.fr###cookie-banner
 francetvinfo.fr###cookie-cnil-box
+franceinter.fr###warning_cookie
 franceinfo.fr###warning_cookie
 forgeworld.co.uk###cookieWarning_gw
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
