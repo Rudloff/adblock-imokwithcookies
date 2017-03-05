@@ -154,6 +154,7 @@ cloudwatt.com###cookie-banner
 clinique-rhena.fr###sliding-popup
 cipav.info###cookies_LCEN_UE
 chro-ma.com###eu-cookie-bar
+cfl.lu###cookie-banner
 certificat-air.gouv.fr###cookie-bar
 cci.fr###popup_cookie
 carrefour.fr##.alert-msg-yellow.cookie-block
