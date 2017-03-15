@@ -138,6 +138,7 @@ dailymotion.com##.cookie_policy
 d8.tv###cnil_alert
 culturecommunication.gouv.fr##.cookies-infos
 creersonsite.net##.cookie-notice-container
+courtcircuit-tours.fr###cookieChoiceInfo
 corporama.com###cnil-msg
 cookiechoices.org##.maia-notification.maia-stage.display
 cookiechoices.org###cookie-statement
