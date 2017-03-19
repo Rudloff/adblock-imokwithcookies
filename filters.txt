@@ -177,6 +177,7 @@ answers.microsoft.com###PrivacyBanner
 animafac.net###cookie-law-info-bar
 animafac.net###cookie-law-info-again
 amnesty.fr###sliding-popup
+almonature.com##.cookie-policy
 alloresto.fr##.banner.banner-cookies
 alloresto.fr###legal_policy_cookies
 allocine.fr##.alert.alert-info.alert-wrap.jui.info-cookie
