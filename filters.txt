@@ -59,6 +59,7 @@ orange.com###cookieDialog
 objetrama.fr###cookie-restriction
 nini-wanted.blogspot.fr###cookieChoiceInfo
 mutuelle-familiale.fr###cookie-bar
+mouv.fr###warning_cookie
 moncompteformation.gouv.fr###sliding-popup
 mediapart.fr###cnil-sentence
 maze.fr###cookie-notice
