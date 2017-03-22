@@ -124,6 +124,7 @@ france-universite-numerique-mooc.fr###cookie-banner
 francetvinfo.fr###cookie-cnil-box
 franceinter.fr###warning_cookie
 franceinfo.fr###warning_cookie
+franceculture.fr##.cookie-banner
 forgeworld.co.uk###cookieWarning_gw
 fnacspectacles.com###layerCookies
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
