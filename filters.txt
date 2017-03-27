@@ -58,6 +58,7 @@ orientation-alsace.eu###cookieChoiceInfo
 orange.com###cookieDialog
 objetrama.fr###cookie-restriction
 nini-wanted.blogspot.fr###cookieChoiceInfo
+netflix.com###cookie-disclosure
 mutuelle-familiale.fr###cookie-bar
 mouv.fr###warning_cookie
 moncompteformation.gouv.fr###sliding-popup
