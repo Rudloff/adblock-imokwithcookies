@@ -34,6 +34,7 @@ slate.fr##.footer_cnil
 sfr.fr###CkC
 seat61.com##.cc_banner-wrapper
 rue89strasbourg.com###cookieChoiceInfo
+rue89lyon.fr###cookieChoiceInfo
 reveauxlettres.fr###cookie
 ressources-solidaires.org###banniere-cookie
 regent-hotels.com###cookie_law_banner
