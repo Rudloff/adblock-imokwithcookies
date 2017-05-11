@@ -122,6 +122,7 @@ fun-mooc.fr###cookie-banner
 fr.slideshare.net##.j-tos-update-banner.tos-update-banner
 fr.okfn.org###catapult-cookie-bar
 freenews.fr###cookie-notice
+france.tv###cookie
 france-universite-numerique-mooc.fr###cookie-banner
 francetvinfo.fr###cookie-cnil-box
 franceinter.fr###warning_cookie
