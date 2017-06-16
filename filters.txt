@@ -19,6 +19,7 @@ topito.com##.cc-cookies
 toogoodtogo.fr###cookie-notice
 thomascubel.com###cookie-notice
 the-checkpoint.fr###cookie-law-info-bar
+theatlantic.com##.cookie-disclaimer
 tgvconnect.com##.react-cookie-banner
 tf1.fr##.banner_cookies
 sup-numerique.gouv.fr###topbar-cookie-container
