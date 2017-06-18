@@ -177,6 +177,7 @@ bed-wet.com###v-cookielaw
 bedetheque.com##.cookie_message
 atlas.ripe.net###cookiepopup
 atlantico.fr###cnil-cookie-panel
+arte.tv##.next-cookie-banner__wrapper
 arte.tv###arte-cookie-banner
 apce.com###notificationcookie
 answers.microsoft.com###PrivacyBanner
