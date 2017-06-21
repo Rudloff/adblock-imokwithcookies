@@ -79,6 +79,7 @@ lesechos.fr###cookiemenu
 lesclesdelabanque.com###encart_cnil
 lemonde.fr###alerte_tracking
 lefigaro.fr##.cookiebarcontainer
+leetchi.com##.cookies-banner
 ldlc.com###tc_privacy
 lautoentrepreneur.fr###cookie-banner
 lautoentrepreneur.fr###bandeau-cnil
