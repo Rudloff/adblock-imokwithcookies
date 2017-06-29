@@ -34,6 +34,7 @@ sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
 sfr.fr###CkC
 seat61.com##.cc_banner-wrapper
+sans.edu##.eupopup-color-default.eupopup-container-top.eupopup-container
 rue89strasbourg.com###cookieChoiceInfo
 rue89lyon.fr###cookieChoiceInfo
 reveauxlettres.fr###cookie
