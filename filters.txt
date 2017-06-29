@@ -64,6 +64,7 @@ netflix.com###cookie-disclosure
 mutuelle-familiale.fr###cookie-bar
 mouv.fr###warning_cookie
 moncompteformation.gouv.fr###sliding-popup
+meteocity.com###mainDivLegacyCookie
 mediapart.fr###cnil-sentence
 maze.fr###cookie-notice
 marianne.net###sliding-popup.sliding-popup-bottom
