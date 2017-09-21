@@ -165,6 +165,7 @@ chro-ma.com###eu-cookie-bar
 cfl.lu###cookie-banner
 certificat-air.gouv.fr###cookie-bar
 cci.fr###popup_cookie
+catversushuman.com###cookieChoiceInfo
 carrefour.fr##.alert-msg-yellow.cookie-block
 carrefour.fr###cookie-block
 carreblanc.fr###cookieChoiceInfo
