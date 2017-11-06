@@ -38,6 +38,7 @@ seat61.com##.cc_banner-wrapper
 sans.edu##.eupopup-color-default.eupopup-container-top.eupopup-container
 rue89strasbourg.com###cookieChoiceInfo
 rue89lyon.fr###cookieChoiceInfo
+rtl.fr##.cnil-banner
 reveauxlettres.fr###cookie
 ressources-solidaires.org###banniere-cookie
 regent-hotels.com###cookie_law_banner
