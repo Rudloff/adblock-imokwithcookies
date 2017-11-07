@@ -255,8 +255,8 @@ grunt-fixpack@~0.1.0:
     fixpack "~2.3.0"
 
 grunt-git@~1.0.1:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/grunt-git/-/grunt-git-1.0.7.tgz#680e78afeb34bc2277b8798360913ce4f382ed4c"
+  version "1.0.9"
+  resolved "https://registry.yarnpkg.com/grunt-git/-/grunt-git-1.0.9.tgz#167b551ec7ccf75f10c9df8e785f16a0b5a9b1a9"
   dependencies:
     flopmang "^0.0.1"
 
