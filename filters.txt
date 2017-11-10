@@ -12,6 +12,7 @@ unblog.fr###unblcn
 twitter.com##.Banner.eu-cookie-notice
 turbo.fr###cookieu_header
 tropheesfondation.edf.com###cookiesWarning
+transparencyatwork.org##.cc-color-override--1676790063.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 trainline.fr##.notification__message.cookies
 tracks.arte.tv###arte-cookie-banner
 toutsurlaretraite.com###cnil-cookie-avertissement
