@@ -76,6 +76,7 @@ maliki.com###ca_banner
 makehuman.org###cookie_consent
 lundimatin.fr##.jumbtron-black.message-cookie
 linxo.com###cookie-notice
+liberation.fr##.footer-cnil
 lexpress.fr###cookie_policy
 letudiant.fr##.c-cookie-banner.is-visible
 letudiant.fr###cookies_policy
