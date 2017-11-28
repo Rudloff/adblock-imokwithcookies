@@ -32,6 +32,7 @@ strasbourg.eu##.cc_banner.cc_container.cc_container--open
 strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
 spotify.com###js-message-bar-cookie-notice
 sos-homophobie.org###sliding-popup
+sophos.com##.cc_banner-wrapper
 sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
 sfr.fr###CkC
