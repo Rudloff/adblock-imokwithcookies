@@ -63,6 +63,7 @@ ouest-france.fr###disclaimerCookies
 orientation-alsace.eu###cookieChoiceInfo
 orange.com###cookieDialog
 objetrama.fr###cookie-restriction
+nouvelobs.com##.ObsCnil-inner
 nini-wanted.blogspot.fr###cookieChoiceInfo
 netflix.com###cookie-disclosure
 mutuelle-familiale.fr###cookie-bar
