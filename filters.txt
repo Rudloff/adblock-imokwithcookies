@@ -35,6 +35,7 @@ sos-homophobie.org###sliding-popup
 sophos.com##.cc_banner-wrapper
 sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
+slate.fr###cnilFooter
 sfr.fr###CkC
 seat61.com##.cc_banner-wrapper
 sans.edu##.eupopup-color-default.eupopup-container-top.eupopup-container
