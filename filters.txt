@@ -44,6 +44,7 @@ reveauxlettres.fr###cookie
 ressources-solidaires.org###banniere-cookie
 regent-hotels.com###cookie_law_banner
 regent-contades.com###cookie_law_banner
+rcf.fr##.cookie-site
 pullseo.com###cookieChoiceInfo
 pro.01net.com###conteneurCookies
 projetarcadie.com###sliding-popup
