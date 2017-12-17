@@ -32,8 +32,10 @@ strasbourg.eu##.cc_banner.cc_container.cc_container--open
 strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
 spotify.com###js-message-bar-cookie-notice
 sos-homophobie.org###sliding-popup
+sophos.com##.cc_banner-wrapper
 sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
+slate.fr###cnilFooter
 sfr.fr###CkC
 seat61.com##.cc_banner-wrapper
 sans.edu##.eupopup-color-default.eupopup-container-top.eupopup-container
@@ -64,6 +66,7 @@ ouest-france.fr###disclaimerCookies
 orientation-alsace.eu###cookieChoiceInfo
 orange.com###cookieDialog
 objetrama.fr###cookie-restriction
+nouvelobs.com##.ObsCnil-inner
 nini-wanted.blogspot.fr###cookieChoiceInfo
 netflix.com###cookie-disclosure
 mutuelle-familiale.fr###cookie-bar
@@ -158,6 +161,7 @@ courtcircuit-tours.fr###cookieChoiceInfo
 corporama.com###cnil-msg
 cookiechoices.org##.maia-notification.maia-stage.display
 cookiechoices.org###cookie-statement
+conso.net##.info.popup-content
 conso.bloctel.fr##.divascookies
 commentcamarche.net##.ccmcss_oic
 codeur.com##.accept-cookies.alert.alert-info
