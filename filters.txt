@@ -92,6 +92,7 @@ lefigaro.fr##.cookiebarcontainer
 leetchi.com##.cookies-banner
 ldlc.com###tc_privacy
 lci.fr###cookie-acceptation-popup
+lavoixdunord.fr###cookiesdirective
 lautoentrepreneur.fr###cookie-banner
 lautoentrepreneur.fr###bandeau-cnil
 larousse.fr##.panel-cookies
