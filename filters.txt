@@ -33,6 +33,7 @@ strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
 spotify.com###js-message-bar-cookie-notice
 sos-homophobie.org###sliding-popup
 sophos.com##.cc_banner-wrapper
+sncf.com###cookie_banner
 sncf-reseau.fr###tarteaucitronAlertBig
 slate.fr##.footer_cnil
 slate.fr###cnilFooter
