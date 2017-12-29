@@ -89,6 +89,7 @@ lesinrocks.com##.cnil-block
 lesechos.fr###cookiemenu
 lesclesdelabanque.com###encart_cnil
 les3dandies.com###cookie_legal_display
+lepotcommun.fr##cookie-agreement-block
 lemonde.fr###alerte_tracking
 lefigaro.fr##.cookiebarcontainer
 leetchi.com##.cookies-banner
