@@ -132,6 +132,7 @@ generation-nt.com###cookieChoiceInfo
 games-workshop.com###cookieWarning_gw
 galerieslafayette.com##.row.bandeau-cookies
 futura-sciences.com###fs-cookiewarning
+furet.com###cookiealert
 fun-mooc.fr###cookie-banner
 fr.slideshare.net##.j-tos-update-banner.tos-update-banner
 fr.okfn.org###catapult-cookie-bar
