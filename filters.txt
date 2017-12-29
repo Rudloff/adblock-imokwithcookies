@@ -87,6 +87,7 @@ letudiant.fr###cookies_policy
 lesinrocks.com##.cnil-block
 lesechos.fr###cookiemenu
 lesclesdelabanque.com###encart_cnil
+les3dandies.com###cookie_legal_display
 lemonde.fr###alerte_tracking
 lefigaro.fr##.cookiebarcontainer
 leetchi.com##.cookies-banner
