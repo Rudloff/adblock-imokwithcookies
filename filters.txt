@@ -62,6 +62,7 @@ paypal.com##.row-fluid.cookie-notification
 passeportsante.net###mainDivLegacyCookie
 parallels.com##cookie-policy-note
 ovh.com###cookiesPop
+over-blog.com###ob-cookies
 over-blog.com###cookies_notifier
 ouest-france.fr###disclaimerCookies
 orientation-alsace.eu###cookieChoiceInfo
