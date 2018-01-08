@@ -205,6 +205,7 @@ apce.com###notificationcookie
 answers.microsoft.com###PrivacyBanner
 animafac.net###cookie-law-info-bar
 animafac.net###cookie-law-info-again
+android.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
 amnesty.fr###sliding-popup
 alternatives-economiques.fr###sliding-popup
 almonature.com##.cookie-policy
