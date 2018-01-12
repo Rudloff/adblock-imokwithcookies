@@ -35,6 +35,7 @@ sos-homophobie.org###sliding-popup
 sophos.com##.cc_banner-wrapper
 sncf.com###cookie_banner
 sncf-reseau.fr###tarteaucitronAlertBig
+slowlyveggie.fr###cookie-bar
 slate.fr##.footer_cnil
 slate.fr###cnilFooter
 sfr.fr###CkC
