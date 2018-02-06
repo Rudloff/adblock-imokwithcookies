@@ -18,7 +18,7 @@
     "cookies"
   ],
   "license": "GPL-3.0",
-  "main": "filters.txt",
+  "main": "Gruntfile.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/Rudloff/adblock-imokwithcookies.git"
