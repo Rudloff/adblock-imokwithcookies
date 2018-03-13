@@ -152,6 +152,7 @@ forgeworld.co.uk###cookieWarning_gw
 fnacspectacles.com###layerCookies
 femmeactuelle.fr##.pmd-alert.pmd-alert-dismissible.pmd-alert-fixed
 es-energies.fr###cookie-bar
+engie.com##.cl-container.cookies
 engagement.fr###cookieBox
 elysee.fr###cookies
 educnum.fr###tarteaucitronAlertBig
