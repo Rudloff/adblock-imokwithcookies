@@ -213,6 +213,7 @@ animafac.net###cookie-law-info-bar
 animafac.net###cookie-law-info-again
 android.com##.devsite-notification-eu-cookie.devsite-dialog.devsite-notification-promo
 amnesty.fr###sliding-popup
+ameli.fr##.info.popup-content
 alternatives-economiques.fr###sliding-popup
 almonature.com##.cookie-policy
 alloresto.fr##.banner.banner-cookies
