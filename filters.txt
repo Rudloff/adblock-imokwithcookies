@@ -31,6 +31,7 @@ sudouest.fr##.strip.strip-black.cookie.no-expansion.cookie_banner-handled
 styleci.io##.cc_banner-wrapper
 styleci.io##.cc-grower
 strasbourg.eu##.cc_banner.cc_container.cc_container--open
+strasbourg.eu##.cc-bottom.cc-theme-block.cc-type-info.cc-banner.cc-window
 strasbourg.cci.fr###sliding-popup.sliding-popup-bottom
 spotify.com###js-message-bar-cookie-notice
 sos-homophobie.org###sliding-popup
