@@ -44,6 +44,7 @@ slate.fr##.footer_cnil
 slate.fr###cnilFooter
 sfr.fr###CkC
 seat61.com##.cc_banner-wrapper
+sciencesetavenir.fr##.cookies-mod-bar.cookies-mod
 sans.edu##.eupopup-color-default.eupopup-container-top.eupopup-container
 rue89strasbourg.com###cookieChoiceInfo
 rue89lyon.fr###cookieChoiceInfo
