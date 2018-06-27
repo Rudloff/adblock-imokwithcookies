@@ -78,6 +78,7 @@ orangebank.fr##.ob-public-widget-cookies > .container-fluid
 objetrama.fr###cookie-restriction
 nouvelobs.com##.ObsCnil-inner
 nini-wanted.blogspot.fr###cookieChoiceInfo
+newyorker.com###_evidon_banner
 netflix.com###cookie-disclosure
 nationalgeographic.fr##.ng-cookie-footer
 mutuelle-familiale.fr###cookie-bar
@@ -200,7 +201,9 @@ carreblanc.fr###cookieChoiceInfo
 careers.societegenerale.com###cookie_law_msg
 canalplus.fr###cnil_alert
 brain-magazine.fr###cookies
+bm-lille.fr###cnil_banner
 blogspot.fr###cookieChoiceInfo
+blogspot.com###cookieChoiceInfo
 blogduwebdesign.com###cookie-banner
 blogdumoderateur.com###cookie-notice
 bing.com###thp_notf_div
