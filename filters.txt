@@ -59,6 +59,7 @@ pro.01net.com###conteneurCookies
 projetarcadie.com###sliding-popup
 positivr.fr###cookie-notice
 portail.free.fr###cookiebanner
+polygon.com###privacy-consent
 pole-emploi.fr###cookieBannerP
 pizzahut.fr##.cc_banner.cc_container.cc_container--open
 phishing-initiative.fr##.cc_banner.cc_container.cc_container--open
