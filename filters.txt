@@ -4,6 +4,7 @@
 yummypets.com###cookie_ww
 youtube.com###ticker.yt-alert.yt-alert-actionable.yt-alert-info.cookie-alert
 yatuu.fr##.cc_banner.cc_container.cc_container--open
+wordpress.com###eu-cookie-law
 wifilib.com###cookieChoiceInfo
 vosdroits.service-public.fr###layerCookies
 u-pem.fr###cookiesdirective
