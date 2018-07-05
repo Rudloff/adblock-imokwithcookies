@@ -1,5 +1,9 @@
 # I'm OK with cookies
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+Since the GDPR came out, there is just too many banner changes for me to keep track.
+I suggest you use [Fanboy's Cookie List](https://www.fanboy.co.nz/fanboy-cookiemonster.txt) instead, which is more frequently updated.
+
 List of filters for Adblock Plus that block cookie notices on European websites
 
 ## Why this list
