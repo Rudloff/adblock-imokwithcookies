@@ -23,6 +23,7 @@ topito.com##.cc-cookies
 toogoodtogo.fr###cookie-notice
 thomascubel.com###cookie-notice
 the-checkpoint.fr###cookie-law-info-bar
+theguardian.com##.site-message--permanent.site-message--first-pv-consent.site-message--banner.js-site-message.site-message
 theatlantic.com##.cookie-disclaimer
 tgvconnect.com##.react-cookie-banner
 tf1.fr##.banner_cookies
